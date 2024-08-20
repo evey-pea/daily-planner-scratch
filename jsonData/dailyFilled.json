@@ -1,0 +1,163 @@
+{
+  "date": "2024-03-05",
+  "start": "09:00",
+  "end": "17:00",
+  "activities": [
+    {
+      "id": 1,
+      "activityType": {
+        "id": 3,
+        "title": "Daily Planning, Email, Slack",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "09:00",
+      "duration": 15
+    },
+    {
+      "id": 2,
+      "activityType": {
+        "id": 6,
+        "title": "Typing Practice",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "09:45",
+      "duration": 15
+    },
+    {
+      "id": 3,
+      "activityType": {
+        "id": 100,
+        "title": "**Project** _Daily Planner_: Data Models",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "10:10",
+      "duration": 70
+    },
+    {
+      "id": 4,
+      "activityType": {
+        "id": 2,
+        "title": "Break",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "11:30",
+      "duration": 10
+    },
+    {
+      "id": 5,
+      "activityType": {
+        "id": 100,
+        "title": "**Project** _Daily Planner_: Data Models",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "11:40",
+      "duration": 80
+    },
+    {
+      "id": 6,
+      "activityType": {
+        "id": 1,
+        "title": "Lunch",
+        "description": "You need to eat something...",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "13:00",
+      "duration": 30
+    },
+    {
+      "id": 7,
+      "activityType": {
+        "id": 4,
+        "title": "Email, Slack",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "13:30",
+      "duration": 10
+    },
+    {
+      "id": 8,
+      "activityType": {
+        "id": 0,
+        "title": "",
+        "description": "",
+        "daily": false,
+        "active": false
+      },
+      "date": "2024-03-05",
+      "startTime": "13:40",
+      "duration": 110
+    },
+    {
+      "id": 9,
+      "activityType": {
+        "id": 2,
+        "title": "Break",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "00:00",
+      "duration": 10
+    },
+    {
+      "id": 10,
+      "activityType": {
+        "id": 4,
+        "title": "Email, Slack",
+        "description": "",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "00:00",
+      "duration": 10
+    },
+    {
+      "id": 11,
+      "activityType": {
+        "id": 0,
+        "title": "",
+        "description": "",
+        "daily": false,
+        "active": false
+      },
+      "date": "2024-03-05",
+      "startTime": "00:00",
+      "duration": 110
+    },
+    {
+      "id": 12,
+      "activityType": {
+        "id": 5,
+        "title": "Daily Journal, Timesheet, Git Push, Housekeeping",
+        "description": "Wrap up and clean up the day",
+        "daily": true,
+        "active": true
+      },
+      "date": "2024-03-05",
+      "startTime": "00:00",
+      "duration": 20
+    }
+  ]
+}
